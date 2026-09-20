@@ -1,0 +1,11 @@
+Age,Salary,Department,Education,City,Experience,Promoted
+23,45000,IT,Bachelors,Nairobi,1,No
+31,72000,Finance,Masters,Mombasa,5,Yes
+28,58000,IT,Bachelors,Nairobi,3,No
+42,95000,HR,PhD,Kisumu,12,Yes
+35,68000,Marketing,Masters,Nairobi,7,Yes
+24,42000,Finance,Bachelors,Eldoret,1,No
+29,61000,IT,Masters,Nakuru,4,No
+38,83000,HR,Bachelors,Mombasa,9,Yes
+26,50000,Marketing,Bachelors,Kisumu,2,No
+45,110000,Finance,PhD,Nairobi,18,Yes
